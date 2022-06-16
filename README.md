@@ -6,3 +6,5 @@ The DSi application will hopefully display the collection's games on the bottom 
 `synopsis/{lang}/{screen}.ext`
 
 Get the information and icons from the nds roms
+
+Integrate [Le Fishe au Chocolat](https://www.youtube.com/watch?v=EApem1uUwpg) into the app via a secret combo or something cos funni
